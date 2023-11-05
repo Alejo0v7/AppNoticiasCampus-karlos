@@ -1,0 +1,7 @@
+{
+  "name": "appNC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

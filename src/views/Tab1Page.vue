@@ -13,6 +13,7 @@
       </ion-header>
 
       <h2>Feed</h2>
+      <h2>Prueba de push push, si</h2>
       <p>From Vuex: {{ this.$store.getters.getAutor }}</p>
       <!-- Componentes -->
 
